@@ -3948,3 +3948,13 @@ Make sure 'DexterityCharacter_C' has been compiled for  Dex Moves Away
 [2021.02.24-17.41.55:799][111]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/StrengthCharacter910968C34672348C1212D3B22FDF3723.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/ThirdPersonBP/Blueprints/StrengthCharacter.uasset'
 [2021.02.24-17.41.55:810][111]AssetCheck: New page: Asset Save: StrengthCharacter
 [2021.02.24-17.41.55:810][111]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/StrengthCharacter.StrengthCharacter
+[2021.02.24-17.42.25:252][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.02.24-17.42.25:286][523]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/ThirdPersonExampleMap_Auto70D1DF5A943BBED67CF5C7F8F2333FC86.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2021.02.24-17.42.25:292][523]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.068
+[2021.02.24-17.42.25:292][523]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2021.02.24-17.42.25:293][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter] ([2] browsable assets)...
+[2021.02.24-17.42.25:315][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter]
+[2021.02.24-17.42.25:336][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter]
+[2021.02.24-17.42.25:336][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter]
+[2021.02.24-17.42.25:401][523]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/DexterityCharacter_Auto7AC7019E448FC1B628545238C14A5F748.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/DexterityCharacter_Auto7.uasset'
+[2021.02.24-17.42.25:403][523]LogFileHelpers: Auto-saving content packages took 0.110
