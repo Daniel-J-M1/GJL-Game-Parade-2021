@@ -3958,3 +3958,1237 @@ Make sure 'DexterityCharacter_C' has been compiled for  Dex Moves Away
 [2021.02.24-17.42.25:336][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter]
 [2021.02.24-17.42.25:401][523]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/DexterityCharacter_Auto7AC7019E448FC1B628545238C14A5F748.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/DexterityCharacter_Auto7.uasset'
 [2021.02.24-17.42.25:403][523]LogFileHelpers: Auto-saving content packages took 0.110
+[2021.02.24-17.42.58:816][703]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/StrengthCharacter64B206214212E122B6DD0AAA598CEF12.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/ThirdPersonBP/Blueprints/StrengthCharacter.uasset'
+[2021.02.24-17.42.58:831][703]AssetCheck: New page: Asset Save: StrengthCharacter
+[2021.02.24-17.42.58:831][703]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/StrengthCharacter.StrengthCharacter
+[2021.02.24-17.43.02:275][942]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.24-17.43.02:278][942]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.24-17.43.02:285][942]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.02.24-23.46.00:389][269]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{044e7b42-fce7-4917-851a-03d30f9a3f1e}.
+[2021.02.24-23.46.00:393][269]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.24-23.46.00:393][269]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.02.24-23.46.00:403][269]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.24-23.46.00:403][269]LogAudioMixer: Display: 1: FrontRight
+[2021.02.24-23.46.00:510][269]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x80070490: Element not found. (line: 1271)
+[2021.02.24-23.46.00:558][271]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{044e7b42-fce7-4917-851a-03d30f9a3f1e}.
+[2021.02.24-23.46.00:564][271]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.24-23.46.00:569][271]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.24-23.46.00:569][271]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-00.01.13:305][855]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.25-00.01.13:307][855]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.25-00.01.13:320][855]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.02.25-00.01.14:788][968]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.25-00.01.14:955][981]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{044e7b42-fce7-4917-851a-03d30f9a3f1e}.
+[2021.02.25-00.01.14:958][981]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.25-00.01.14:958][981]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.02.25-00.01.14:967][981]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-00.01.14:967][981]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-00.12.54:469][233]BlueprintLog: New page: Compile Ladders
+[2021.02.25-00.12.54:749][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.02.25-00.13.37:095][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.02.25-00.13.37:135][436]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/ThirdPersonExampleMap_Auto89C856C4242AAF0A8E9E4749CB348E1BB.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.02.25-00.13.37:138][436]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2021.02.25-00.13.37:138][436]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2021.02.25-00.13.37:138][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter] ([2] browsable assets)...
+[2021.02.25-00.13.37:148][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter]
+[2021.02.25-00.13.37:156][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter]
+[2021.02.25-00.13.37:156][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter]
+[2021.02.25-00.13.37:221][436]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/DexterityCharacter_Auto8BD84054242607B6352CDC8B555B4F5AE.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/DexterityCharacter_Auto8.uasset'
+[2021.02.25-00.13.37:222][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ladders] ([1] browsable assets)...
+[2021.02.25-00.13.37:231][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ladders.Ladders]
+[2021.02.25-00.13.37:231][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ladders]
+[2021.02.25-00.13.37:255][436]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Ladders_Auto8A1B1C4EB428007D1A296F0AD954A8027.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/Ladders_Auto8.uasset'
+[2021.02.25-00.13.37:256][436]LogFileHelpers: Auto-saving content packages took 0.119
+[2021.02.25-00.18.48:488][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.25-00.18.49:202][599]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-00.18.49:215][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-00.18.49:215][599]PIE: New page: PIE session: ThirdPersonExampleMap (25 Feb 2021, 00:18:49)
+[2021.02.25-00.18.49:245][599]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-00.18.49:257][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012877s)
+[2021.02.25-00.18.49:259][599]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-00.18.49:260][599]LogPlayLevel: PIE: World Init took: (0.001994s)
+[2021.02.25-00.18.49:260][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015068s)
+[2021.02.25-00.18.49:292][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.02.25-00.18.49:303][599]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-00.18.49:303][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-00.18.49:303][599]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-00.18.49:303][599]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-00.18.49:307][599]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-00.18.49:307][599]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-00.18.49:316][599]LogAudioMixer: Display: Using Audio Device BK550Y (NVIDIA High Definition Audio)
+[2021.02.25-00.18.49:317][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-00.18.49:317][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-00.18.49:317][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-00.18.49:317][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-00.18.49:317][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-00.18.49:317][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-00.18.49:328][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-00.18.49:328][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-00.18.49:328][599]LogInit: FAudioDevice initialized.
+[2021.02.25-00.18.49:328][599]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-00.18.49:337][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-00.18.49:340][599]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.25-00.18.49
+[2021.02.25-00.18.49:341][599]LogWorld: Bringing up level for play took: 0.003018
+[2021.02.25-00.18.49:341][599]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.02.25-00.18.49:343][599]PIE: Server logged in
+[2021.02.25-00.18.49:344][599]PIE: Play in editor total start time 0.13 seconds.
+[2021.02.25-00.19.00:556][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-00.19.00:556][927]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-00.19.00:556][927]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-00.19.00:557][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-00.19.00:566][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-00.19.00:586][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-00.19.00:612][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-00.19.00:612][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-00.19.00:613][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-00.19.00:625][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-00.19.00:630][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.25-00.19.00:710][928]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.02.25-00.19.22:358][894]BlueprintLog: New page: Compile Ladders
+[2021.02.25-00.19.22:444][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.02.25-00.19.23:094][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.25-00.19.24:030][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-00.19.24:041][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-00.19.24:041][ 26]PIE: New page: PIE session: ThirdPersonExampleMap (25 Feb 2021, 00:19:24)
+[2021.02.25-00.19.24:042][ 26]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-00.19.24:056][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013539s)
+[2021.02.25-00.19.24:057][ 26]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-00.19.24:058][ 26]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2021.02.25-00.19.24:058][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014993s)
+[2021.02.25-00.19.24:091][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.02.25-00.19.24:094][ 26]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-00.19.24:094][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-00.19.24:094][ 26]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-00.19.24:094][ 26]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-00.19.24:097][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-00.19.24:097][ 26]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-00.19.24:106][ 26]LogAudioMixer: Display: Using Audio Device BK550Y (NVIDIA High Definition Audio)
+[2021.02.25-00.19.24:106][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-00.19.24:106][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-00.19.24:106][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-00.19.24:107][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-00.19.24:107][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-00.19.24:107][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-00.19.24:118][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-00.19.24:118][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-00.19.24:118][ 26]LogInit: FAudioDevice initialized.
+[2021.02.25-00.19.24:118][ 26]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-00.19.24:126][ 26]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-00.19.24:129][ 26]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.25-00.19.24
+[2021.02.25-00.19.24:129][ 26]LogWorld: Bringing up level for play took: 0.002605
+[2021.02.25-00.19.24:130][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.02.25-00.19.24:132][ 26]PIE: Server logged in
+[2021.02.25-00.19.24:132][ 26]PIE: Play in editor total start time 0.091 seconds.
+[2021.02.25-00.19.36:475][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-00.19.36:476][496]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-00.19.36:476][496]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-00.19.36:477][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-00.19.36:491][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-00.19.36:511][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-00.19.36:537][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-00.19.36:537][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-00.19.36:538][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-00.19.36:551][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-00.19.36:555][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.02.25-00.19.36:633][497]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.02.25-00.24.01:373][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.02.25-00.24.01:415][428]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/ThirdPersonExampleMap_Auto920A8D91048F59D67F74251B029FFA030.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2021.02.25-00.24.01:417][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.073
+[2021.02.25-00.24.01:417][428]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2021.02.25-00.24.01:418][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter] ([2] browsable assets)...
+[2021.02.25-00.24.01:427][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter]
+[2021.02.25-00.24.01:435][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter]
+[2021.02.25-00.24.01:435][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/DexterityCharacter]
+[2021.02.25-00.24.01:499][428]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/DexterityCharacter_Auto978A27D2E4BC4F9042AF2CF95AE7AE5B3.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/DexterityCharacter_Auto9.uasset'
+[2021.02.25-00.24.01:500][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ladders] ([1] browsable assets)...
+[2021.02.25-00.24.01:509][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ladders.Ladders]
+[2021.02.25-00.24.01:509][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ladders]
+[2021.02.25-00.24.01:532][428]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Ladders_Auto9E2BDA75449C906E8FA512E98841CC4CB.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Autosaves/Game/Ladders_Auto9.uasset'
+[2021.02.25-00.24.01:533][428]LogFileHelpers: Auto-saving content packages took 0.116
+[2021.02.25-00.40.07:004][195]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.25-00.40.07:007][195]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.25-00.40.07:022][195]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.02.25-00.40.08:552][331]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.02.25-00.40.08:690][343]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{044e7b42-fce7-4917-851a-03d30f9a3f1e}.
+[2021.02.25-00.40.08:694][343]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.25-00.40.08:694][343]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.02.25-00.40.08:712][343]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-00.40.08:712][343]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-00.58.48:521][925]LogEditorViewport: Clicking on Actor (LMB): Ladders_C (Ladders)
+[2021.02.25-00.58.49:424][ 11]Cmd: DUPLICATE
+[2021.02.25-00.58.49:424][ 11]Cmd: ACTOR DUPLICATE
+[2021.02.25-00.58.55:113][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.25-00.58.56:603][709]LogEditorViewport: Clicking on Actor (LMB): Ladders_C (Ladders3)
+[2021.02.25-00.59.18:872][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.25-00.59.19:561][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-00.59.19:573][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-00.59.19:573][ 42]PIE: New page: PIE session: ThirdPersonExampleMap (25 Feb 2021, 00:59:19)
+[2021.02.25-00.59.19:601][ 42]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-00.59.19:615][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013570s)
+[2021.02.25-00.59.19:616][ 42]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-00.59.19:616][ 42]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2021.02.25-00.59.19:616][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015007s)
+[2021.02.25-00.59.19:654][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.02.25-00.59.19:664][ 42]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-00.59.19:665][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-00.59.19:665][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-00.59.19:665][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-00.59.19:669][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-00.59.19:669][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-00.59.19:678][ 42]LogAudioMixer: Display: Using Audio Device BK550Y (NVIDIA High Definition Audio)
+[2021.02.25-00.59.19:678][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-00.59.19:678][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-00.59.19:678][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-00.59.19:679][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-00.59.19:679][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-00.59.19:679][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-00.59.19:690][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-00.59.19:690][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-00.59.19:690][ 42]LogInit: FAudioDevice initialized.
+[2021.02.25-00.59.19:690][ 42]LogAudio: Display: Audio Device (ID: 54) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-00.59.19:699][ 42]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-00.59.19:701][ 42]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.25-00.59.19
+[2021.02.25-00.59.19:703][ 42]LogWorld: Bringing up level for play took: 0.002719
+[2021.02.25-00.59.19:703][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2021.02.25-00.59.19:705][ 42]PIE: Server logged in
+[2021.02.25-00.59.19:706][ 42]PIE: Play in editor total start time 0.133 seconds.
+[2021.02.25-01.00.51:573][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.00.51:573][ 28]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.00.51:573][ 28]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.00.51:574][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.00.51:588][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-01.00.51:609][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.00.51:636][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-01.00.51:636][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.00.51:637][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.00.51:650][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.00.51:655][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.02.25-01.00.51:734][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2021.02.25-01.02.45:609][607]BlueprintLog: New page: Compile StrengthCharacter
+[2021.02.25-01.02.45:745][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.02.25-01.02.50:926][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.25-01.02.51:728][901]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-01.02.51:740][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-01.02.51:740][901]PIE: New page: PIE session: ThirdPersonExampleMap (25 Feb 2021, 01:02:51)
+[2021.02.25-01.02.51:763][901]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.02.51:774][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011502s)
+[2021.02.25-01.02.51:775][901]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-01.02.51:775][901]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2021.02.25-01.02.51:775][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012666s)
+[2021.02.25-01.02.51:809][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.02.25-01.02.51:812][901]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-01.02.51:812][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-01.02.51:812][901]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-01.02.51:812][901]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-01.02.51:815][901]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-01.02.51:815][901]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-01.02.51:824][901]LogAudioMixer: Display: Using Audio Device BK550Y (NVIDIA High Definition Audio)
+[2021.02.25-01.02.51:824][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-01.02.51:825][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-01.02.51:825][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-01.02.51:825][901]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-01.02.51:825][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-01.02.51:825][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-01.02.51:835][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-01.02.51:835][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-01.02.51:835][901]LogInit: FAudioDevice initialized.
+[2021.02.25-01.02.51:835][901]LogAudio: Display: Audio Device (ID: 55) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-01.02.51:844][901]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-01.02.51:846][901]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.25-01.02.51
+[2021.02.25-01.02.51:847][901]LogWorld: Bringing up level for play took: 0.002682
+[2021.02.25-01.02.51:847][901]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.02.25-01.02.51:849][901]PIE: Server logged in
+[2021.02.25-01.02.51:850][901]PIE: Play in editor total start time 0.11 seconds.
+[2021.02.25-01.02.59:074][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.02.59:074][534]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.02.59:074][534]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.02.59:075][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.02.59:141][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-01.02.59:160][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.02.59:186][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-01.02.59:186][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.02.59:187][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.02.59:201][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.02.59:205][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.02.25-01.02.59:406][535]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.02.25-01.03.12:713][460]BlueprintLog: New page: Compile StrengthCharacter
+[2021.02.25-01.03.12:824][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.02.25-01.03.54:373][782]BlueprintLog: New page: Compile DexterityCharacter
+[2021.02.25-01.03.54:513][782]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.02.25-01.03.54:970][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.02.25-01.03.55:843][891]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-01.03.55:855][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-01.03.55:855][891]PIE: New page: PIE session: ThirdPersonExampleMap (25 Feb 2021, 01:03:55)
+[2021.02.25-01.03.55:893][891]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.03.55:904][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010826s)
+[2021.02.25-01.03.55:905][891]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-01.03.55:905][891]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2021.02.25-01.03.55:905][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012203s)
+[2021.02.25-01.03.55:938][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.02.25-01.03.55:939][891]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-01.03.55:939][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-01.03.55:939][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-01.03.55:940][891]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-01.03.55:940][891]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-01.03.55:943][891]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-01.03.55:943][891]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-01.03.55:952][891]LogAudioMixer: Display: Using Audio Device BK550Y (NVIDIA High Definition Audio)
+[2021.02.25-01.03.55:952][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-01.03.55:952][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-01.03.55:952][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-01.03.55:952][891]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-01.03.55:952][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-01.03.55:952][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-01.03.55:964][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-01.03.55:964][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-01.03.55:964][891]LogInit: FAudioDevice initialized.
+[2021.02.25-01.03.55:964][891]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-01.03.55:969][891]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-01.03.55:971][891]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.25-01.03.55
+[2021.02.25-01.03.55:972][891]LogWorld: Bringing up level for play took: 0.002667
+[2021.02.25-01.03.55:972][891]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.02.25-01.03.55:974][891]PIE: Server logged in
+[2021.02.25-01.03.55:975][891]PIE: Play in editor total start time 0.12 seconds.
+[2021.02.25-01.03.58:629][181]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsStrength_Character_3
+	MoveableRocks_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MoveableRocks_2
+	Function /Game/MoveableRocks.MoveableRocks_C:ExecuteUbergraph_MoveableRocks:04B4
+[2021.02.25-01.03.58:629][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsStrength_Character_3". Blueprint:  MoveableRocks Function:  Execute Ubergraph Moveable Rocks Graph:  EventGraph Node:  Set PushSide3
+[2021.02.25-01.03.58:629][181]LogScript: Warning: Attempted to assign to None
+	MoveableRocks_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.MoveableRocks_2
+	Function /Game/MoveableRocks.MoveableRocks_C:ExecuteUbergraph_MoveableRocks:04C9
+[2021.02.25-01.03.58:629][181]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  MoveableRocks Function:  Execute Ubergraph Moveable Rocks Graph:  EventGraph Node:  Set PushSide3
+[2021.02.25-01.04.04:804][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.04.04:804][860]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.04.04:804][860]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.04.04:805][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.04.04:839][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-01.04.04:858][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.04.04:884][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.25-01.04.04:884][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.04.04:885][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.04.04:898][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.04.04:902][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.02.25-01.04.05:067][861]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.02.25-01.04.42:609][ 98]BlueprintLog: New page: Compile MoveableRocks
+[2021.02.25-01.04.42:752][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.02.25-01.05.04:002][983]BlueprintLog: New page: Compile MoveableRocks
+[2021.02.25-01.05.04:090][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.02.25-01.05.06:137][188]LogSlate: Window 'Message Log' being destroyed
+[2021.02.25-01.05.06:140][188]LogSlate: Window 'Message Log' being destroyed
+[2021.02.25-01.05.06:631][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.02.25-01.05.50:441][286]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:441][286]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Ladders_5.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:441][286]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Ladders2.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:441][286]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Ladders3.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:441][286]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:452][287]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:464][288]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:475][289]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:486][290]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:497][291]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:508][292]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:519][293]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:530][294]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:542][295]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:553][296]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:565][297]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:577][298]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:589][299]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:601][300]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:613][301]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:626][302]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:638][303]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:650][304]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:662][305]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:674][306]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:687][307]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:699][308]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:711][309]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:723][310]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:734][311]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:745][312]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:756][313]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:767][314]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:778][315]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:789][316]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:800][317]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:812][318]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:823][319]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:834][320]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:845][321]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:856][322]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:868][323]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:879][324]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:891][325]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:903][326]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:914][327]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:925][328]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:937][329]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:948][330]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:959][331]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:971][332]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:983][333]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.50:995][334]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:006][335]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:018][336]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:031][337]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:043][338]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:054][339]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:065][340]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:076][341]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:087][342]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:098][343]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:109][344]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:120][345]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:132][346]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:143][347]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:154][348]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:165][349]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:176][350]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:188][351]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:199][352]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:210][353]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:221][354]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:232][355]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:243][356]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:254][357]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:265][358]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:276][359]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:287][360]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:298][361]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:310][362]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:322][363]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:334][364]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:346][365]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:358][366]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:370][367]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:383][368]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:395][369]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:406][370]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:417][371]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:428][372]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:439][373]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:450][374]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:461][375]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:472][376]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:483][377]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:494][378]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:505][379]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:516][380]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:527][381]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:538][382]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:549][383]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:560][384]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:572][385]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:583][386]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:594][387]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:605][388]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:617][389]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:630][390]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:642][391]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:654][392]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:666][393]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:678][394]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.51:690][395]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:079][517]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:079][517]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Ladders_5.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:079][517]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Ladders2.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:079][517]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Ladders3.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:079][517]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:090][518]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:101][519]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:112][520]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:123][521]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:134][522]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:146][523]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:156][524]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:168][525]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:179][526]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:190][527]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.53:201][528]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:873][983]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:885][984]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:896][985]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:907][986]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:919][987]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:931][988]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.05.57:942][989]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.Ladders_C_0.ActivateLadder has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=1.125 Z=0.000
+[2021.02.25-01.06.12:680][403]BlueprintLog: New page: Compile Ladders
+[2021.02.25-01.06.12:799][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.02.25-01.06.25:039][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.25-01.06.26:233][623]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-01.06.26:246][623]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.25-01.06.26:249][623]LogPlayLevel: [PlayLevel] Compiling Ladders before play...
+[2021.02.25-01.06.26:371][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.02.25-01.06.26:373][623]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2021.02.25-01.06.26:373][623]PIE: New page: PIE session: ThirdPersonExampleMap (25 Feb 2021, 01:06:26)
+[2021.02.25-01.06.26:374][623]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.06.26:385][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011351s)
+[2021.02.25-01.06.26:386][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.25-01.06.26:386][623]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2021.02.25-01.06.26:386][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012714s)
+[2021.02.25-01.06.26:417][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.02.25-01.06.26:417][623]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.02.25-01.06.26:417][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-01.06.26:418][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-01.06.26:418][623]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-01.06.26:418][623]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-01.06.26:421][623]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-01.06.26:421][623]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-01.06.26:430][623]LogAudioMixer: Display: Using Audio Device BK550Y (NVIDIA High Definition Audio)
+[2021.02.25-01.06.26:430][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-01.06.26:430][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-01.06.26:430][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-01.06.26:431][623]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-01.06.26:431][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-01.06.26:431][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-01.06.26:442][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-01.06.26:442][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-01.06.26:442][623]LogInit: FAudioDevice initialized.
+[2021.02.25-01.06.26:442][623]LogAudio: Display: Audio Device (ID: 57) registered with world 'ThirdPersonExampleMap'.
+[2021.02.25-01.06.26:454][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.25-01.06.26:456][623]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.25-01.06.26
+[2021.02.25-01.06.26:457][623]LogWorld: Bringing up level for play took: 0.002636
+[2021.02.25-01.06.26:457][623]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.02.25-01.06.26:459][623]PIE: Server logged in
+[2021.02.25-01.06.26:460][623]PIE: Play in editor total start time 0.215 seconds.
+[2021.02.25-01.06.32:279][316]LogBlueprintUserMessages: [Ladders2] Hello
+[2021.02.25-01.06.34:130][538]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:122][ 17]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:130][ 18]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:138][ 19]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:147][ 20]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:155][ 21]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:163][ 22]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:172][ 23]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:180][ 24]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:188][ 25]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:197][ 26]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:205][ 27]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:213][ 28]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:222][ 29]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:230][ 30]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:238][ 31]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:247][ 32]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:255][ 33]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:263][ 34]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:272][ 35]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:280][ 36]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:288][ 37]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:297][ 38]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:305][ 39]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:313][ 40]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:322][ 41]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:330][ 42]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:339][ 43]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:347][ 44]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:355][ 45]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:364][ 46]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:372][ 47]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:380][ 48]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:389][ 49]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:397][ 50]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:405][ 51]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:414][ 52]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:422][ 53]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:430][ 54]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.38:439][ 55]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.39:281][156]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.45:300][878]LogBlueprintUserMessages: [Ladders3] Hello
+[2021.02.25-01.06.50:856][541]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:864][542]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:872][543]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:881][544]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:889][545]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:897][546]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:906][547]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:914][548]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:922][549]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:930][550]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:939][551]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:947][552]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:956][553]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:964][554]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:972][555]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:981][556]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:989][557]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.50:997][558]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:006][559]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:014][560]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:022][561]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:030][562]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:039][563]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:047][564]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:056][565]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:064][566]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:072][567]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:081][568]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:089][569]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:097][570]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:106][571]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:114][572]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:122][573]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:130][574]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:139][575]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:147][576]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:156][577]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:164][578]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.51:172][579]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.52:772][771]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.55:147][ 56]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.56:239][187]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.57:214][304]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.57:930][390]LogBlueprintUserMessages: [Ladders2] Hello
+[2021.02.25-01.06.58:664][478]LogBlueprintUserMessages: [Ladders2] Hello
+[2021.02.25-01.06.59:180][540]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.06.59:497][578]LogBlueprintUserMessages: [Ladders_5] Hello
+[2021.02.25-01.07.00:097][650]LogBlueprintUserMessages: [Ladders2] Hello
+[2021.02.25-01.07.01:384][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.07.01:384][801]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.25-01.07.01:385][801]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.01:386][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.07.01:401][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-01.07.01:420][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.07.01:447][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-01.07.01:448][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.07.01:448][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.07.01:466][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.02.25-01.07.01:530][802]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.02.25-01.07.21:708][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ladders" FILE="D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/Ladders.uasset" SILENT=true
+[2021.02.25-01.07.21:733][ 98]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/Ladders3E8FD8CB4EBEA532DBC7D798DCE40F35.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/Ladders.uasset'
+[2021.02.25-01.07.21:747][ 98]AssetCheck: New page: Asset Save: Ladders
+[2021.02.25-01.07.21:748][ 98]LogContentValidation: Display: Validating Blueprint /Game/Ladders.Ladders
+[2021.02.25-01.07.27:942][821]LogSlate: Window 'MoveableRocks' being destroyed
+[2021.02.25-01.07.27:945][821]LogSlate: Window 'MoveableRocks' being destroyed
+[2021.02.25-01.07.27:961][821]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.27:961][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.07.28:063][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.25-01.07.28:063][821]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.28:063][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.07.28:180][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.25-01.07.28:180][821]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.28:180][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.07.28:282][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.25-01.07.28:282][821]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.28:282][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-01.07.31:104][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.02.25-01.07.32:688][138]LogSlate: Window 'Save Content' being destroyed
+[2021.02.25-01.07.32:810][138]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/DexterityCharacterFB9267AF40D9C8B67B3D148812E24FCC.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/ThirdPersonBP/Blueprints/DexterityCharacter.uasset'
+[2021.02.25-01.07.32:822][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MoveableRocks" FILE="D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/MoveableRocks.uasset" SILENT=true
+[2021.02.25-01.07.32:896][138]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/MoveableRocks41C3D3F74D1B666A63ABF9A958256519.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/MoveableRocks.uasset'
+[2021.02.25-01.07.33:060][138]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/StrengthCharacter092F3A0241795F617FA711ACA4CE33DE.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/ThirdPersonBP/Blueprints/StrengthCharacter.uasset'
+[2021.02.25-01.07.33:112][138]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.02.25-01.07.33:145][138]LogSavePackage: Moving 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Saved/ThirdPersonExampleMap68FD85B24E4D4F1B589C78B75EB0A308.tmp' to 'D:/MyLibrary/MyDocuments/Projects/GameParade2021/GJL-Game-Parade-2021/TogetherWeClimb/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.25-01.07.33:229][138]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.168
+[2021.02.25-01.07.33:284][138]LogSlate: Window 'TogetherWeClimb - Unreal Editor' being destroyed
+[2021.02.25-01.07.33:285][138]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.25-01.07.33:393][138]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-01.07.33:393][138]LogContentValidation: Display: Validating Blueprint /Game/MoveableRocks.MoveableRocks
+[2021.02.25-01.07.33:393][138]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/StrengthCharacter.StrengthCharacter
+[2021.02.25-01.07.33:393][138]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/DexterityCharacter.DexterityCharacter
+[2021.02.25-01.07.33:393][138]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.25-01.07.33:400][139]Cmd: QUIT_EDITOR
+[2021.02.25-01.07.33:400][139]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.02.25-01.07.33:404][139]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.02.25-01.07.33:688][139]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.02.25-01.07.33:688][139]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.02.25-01.07.33:688][139]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2021.02.25-01.07.33:688][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.07.33:689][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-01.07.33:707][139]LogAudio: Display: Audio Device Manager Shutdown
+[2021.02.25-01.07.33:716][139]LogExit: Preparing to exit.
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F0C00] Windows
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F3E00] Default__DeviceProfile
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295D00] WindowsNoEditor
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F3800] WindowsServer
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294F00] WindowsClient
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F2D00] IOS
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297100] iPadAir
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F1000] iPadAir2
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23EA00] IPadPro
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23EB00] iPadAir3
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F2A00] iPadAir4
+[2021.02.25-01.07.34:832][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23E700] iPadMini2
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F2F00] iPadMini3
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23DA00] iPadMini4
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F1700] iPadMini5
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292300] iPhone6
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292400] iPodTouch6
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294400] iPhone7
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294300] iPodTouch7
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293B00] iPhone5S
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296300] iPhone6Plus
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C291600] iPhone6S
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297D00] iPhone6SPlus
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290700] iPhone7Plus
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295200] iPhoneSE
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293300] iPhone8
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295600] iPhone8Plus
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290100] iPhoneX
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296A00] iPhoneXS
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292F00] iPhoneXSMax
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295400] iPhoneXR
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290E00] iPhone11
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295F00] iPhone11Pro
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293700] iPhone11ProMax
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297400] iPhoneSE2
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290200] iPhone12Mini
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292600] iPhone12
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F2900] iPhone12Pro
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290D00] iPhone12ProMax
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F0200] iPadPro105
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F0100] iPadPro129
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F2600] iPadPro97
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292B00] iPadPro2_129
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295800] iPad5
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293200] iPad6
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295100] iPad7
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293100] iPad8
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296D00] iPadPro11
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C291700] iPadPro2_11
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297F00] iPadPro3_129
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292C00] iPadPro4_129
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296B00] AppleTV
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C291400] AppleTV4K
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294D00] TVOS
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290500] Mac
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295500] MacClient
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290F00] MacNoEditor
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295300] MacServer
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C291100] Linux
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294500] LinuxNoEditor
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292200] LinuxAArch64NoEditor
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294900] LinuxClient
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293500] LinuxAArch64Client
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294100] LinuxServer
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293F00] LinuxAArch64Server
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296800] Android
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C291C00] Android_Low
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294A00] Android_Mid
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292700] Android_High
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297300] Android_Default
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C291F00] Android_Adreno4xx
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296500] Android_Adreno5xx_Low
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C290600] Android_Adreno5xx
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C294600] Android_Adreno6xx
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292800] Android_Adreno6xx_Vulkan
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C296000] Android_Mali_T6xx
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293800] Android_Mali_T7xx
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295C00] Android_Mali_T8xx
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C292A00] Android_Mali_G71
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297C00] Android_Mali_G72
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293000] Android_Mali_G72_Vulkan
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C297600] Android_Mali_G76
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C293400] Android_Mali_G76_Vulkan
+[2021.02.25-01.07.34:833][139]LogDeviceProfile: Device profile begin destroy: [000001D96C295A00] Android_Mali_G77
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F3400] Android_Mali_G77_Vulkan
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23CA00] Android_Vulkan_SM5
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F1C00] Android_PowerVR_G6xxx
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23D700] Android_PowerVR_GT7xxx
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F1500] Android_PowerVR_GE8xxx
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23EC00] Android_PowerVR_GM9xxx
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F0800] Android_PowerVR_GM9xxx_Vulkan
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23FF00] Android_TegraK1
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F3600] Android_Unknown_Vulkan
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23C400] Lumin
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C2F3700] Lumin_Desktop
+[2021.02.25-01.07.34:834][139]LogDeviceProfile: Device profile begin destroy: [000001D96C23C800] HoloLens
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:845][139]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:848][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:848][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:849][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:849][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:849][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:849][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:849][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:849][139]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:851][139]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.02.25-01.07.34:854][139]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:857][139]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:860][139]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:863][139]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-01.07.34:908][139]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.02.25-01.07.34:919][139]LogExit: Editor shut down
+[2021.02.25-01.07.34:920][139]LogExit: Transaction tracking system shut down
+[2021.02.25-01.07.35:195][139]LogExit: Object subsystem successfully closed.
+[2021.02.25-01.07.35:233][139]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.02.25-01.07.35:280][139]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (820)
+[2021.02.25-01.07.35:280][139]LogModuleManager: Shutting down and abandoning module Voice (818)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module BlueprintGraph (816)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (814)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module SceneOutliner (812)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module AddContentDialog (810)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module WidgetCarousel (809)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module EditorWidgets (806)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module StatsViewer (804)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2021.02.25-01.07.35:281][139]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (792)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module GooglePADEditor (790)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (788)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (786)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (784)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (782)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (780)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (778)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (776)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (774)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (772)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module WebMMedia (770)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (768)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (766)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module SequenceRecorder (765)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (762)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (760)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (758)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (756)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (754)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (752)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (750)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module PlanarCut (748)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (746)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (744)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (742)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module CharacterAI (740)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module TextureAlignMode (738)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module BspMode (736)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module GeometryMode (734)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module SmartSnapping (732)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module SessionServices (730)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MeshPaint (728)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (726)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module FoliageEdit (724)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module LandscapeEditor (722)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module MeshPaintMode (720)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (718)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module ActorPickerMode (716)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module PlacementMode (714)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module ViewportSnapping (712)
+[2021.02.25-01.07.35:282][139]LogModuleManager: Shutting down and abandoning module ViewportInteraction (710)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module ClothPainter (708)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (707)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module LogVisualizer (704)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module IntroTutorials (702)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (701)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (698)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (696)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (694)
+[2021.02.25-01.07.35:283][139]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (693)
+[2021.02.25-01.07.37:047][139]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (690)
+[2021.02.25-01.07.37:047][139]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (688)
+[2021.02.25-01.07.37:047][139]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (686)
+[2021.02.25-01.07.37:047][139]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (684)
+[2021.02.25-01.07.37:047][139]LogModuleManager: Shutting down and abandoning module TraceInsights (682)
+[2021.02.25-01.07.37:048][139]MemoryProfiler: Shutdown
+[2021.02.25-01.07.37:048][139]NetworkingProfiler: Shutdown
+[2021.02.25-01.07.37:048][139]LoadingProfiler: Shutdown
+[2021.02.25-01.07.37:048][139]TimingProfiler: Shutdown
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module TraceServices (681)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (678)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (676)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module InputBindingEditor (674)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module MergeActors (672)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (670)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module LocalizationService (669)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module HardwareTargeting (666)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (664)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module UndoHistory (662)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module XmlParser (660)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module Blutility (658)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (656)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (655)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (652)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (651)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module SettingsEditor (648)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module ProjectLauncher (646)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module SessionFrontend (644)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module ProfilerClient (642)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module DeviceManager (640)
+[2021.02.25-01.07.37:048][139]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (639)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module AutomationController (636)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module AutomationWindow (634)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module Layers (632)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (630)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module DetailCustomizations (628)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module PackagesDialog (626)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (624)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module Persona (622)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (621)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module AnimGraph (619)
+[2021.02.25-01.07.37:079][139]LogModuleManager: Shutting down and abandoning module Kismet (616)
+[2021.02.25-01.07.37:090][139]LogModuleManager: Shutting down and abandoning module KismetWidgets (615)
+[2021.02.25-01.07.37:090][139]LogModuleManager: Shutting down and abandoning module GraphEditor (612)
+[2021.02.25-01.07.37:090][139]LogModuleManager: Shutting down and abandoning module StructViewer (610)
+[2021.02.25-01.07.37:090][139]LogModuleManager: Shutting down and abandoning module ClassViewer (608)
+[2021.02.25-01.07.37:092][139]LogModuleManager: Shutting down and abandoning module Toolbox (606)
+[2021.02.25-01.07.37:092][139]LogModuleManager: Shutting down and abandoning module ModuleUI (604)
+[2021.02.25-01.07.37:092][139]LogModuleManager: Shutting down and abandoning module OutputLog (602)
+[2021.02.25-01.07.37:099][139]LogModuleManager: Shutting down and abandoning module GammaUI (600)
+[2021.02.25-01.07.37:099][139]LogModuleManager: Shutting down and abandoning module Documentation (598)
+[2021.02.25-01.07.37:104][139]LogModuleManager: Shutting down and abandoning module LiveCoding (596)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module LevelSequence (594)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (592)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module MovieScene (590)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (588)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module LauncherPlatform (586)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module AnalyticsET (584)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module PortalServices (582)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module PortalRpc (580)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module MessagingRpc (578)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (576)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module AudioMixerCore (575)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module AIModule (572)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module GameplayDebugger (571)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module AITestSuite (569)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module NavigationSystem (567)
+[2021.02.25-01.07.37:105][139]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (564)
+[2021.02.25-01.07.37:111][139]LogModuleManager: Shutting down and abandoning module ProfilerService (562)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module TaskGraph (560)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (558)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module OculusEditor (556)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module OculusInput (554)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (552)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (550)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module CollectionManager (549)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (546)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (544)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module SynthesisEditor (542)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module Synthesis (540)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module ScreenshotTools (534)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (532)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module GooglePAD (530)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module EditableMesh (528)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (526)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module CableComponent (524)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AssetTags (522)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AudioCapture (520)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (519)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (516)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (514)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AppleImageUtils (512)
+[2021.02.25-01.07.37:192][139]LogModuleManager: Shutting down and abandoning module AndroidPermission (510)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (508)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (506)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module TemplateSequence (504)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MediaCompositing (502)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module ImgMedia (500)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (498)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MotoSynth (496)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MeshConversion (494)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module DynamicMesh (492)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (490)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometricObjects (488)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (486)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (485)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (482)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (480)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (478)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (476)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (474)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (472)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (470)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (468)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (466)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (464)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module ChaosNiagara (462)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (460)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module FractureEditor (458)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (457)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (454)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module BackChannel (452)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (450)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module AutomationUtils (448)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module AlembicImporter (446)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module AlembicLibrary (445)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCache (444)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (443)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (438)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (436)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module PluginUtils (434)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module UObjectPlugin (432)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (430)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (428)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (426)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (424)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module GitSourceControl (422)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module SourceControl (421)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (418)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (414)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2021.02.25-01.07.37:193][139]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (408)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (406)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module CryptoKeys (404)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module CurveEditorTools (402)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (400)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (398)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (396)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module Paper2DEditor (394)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (384)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (382)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (380)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (376)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (374)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (372)
+[2021.02.25-01.07.37:194][139]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2021.02.25-01.07.37:295][139]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module ActorSequence (366)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2021.02.25-01.07.37:395][139]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2021.02.25-01.07.37:395][139]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (338)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module Niagara (336)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module SignalProcessing (335)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module NiagaraEditor (333)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module NiagaraCore (330)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (328)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module AnimationSharing (326)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (324)
+[2021.02.25-01.07.37:395][139]LogModuleManager: Shutting down and abandoning module FacialAnimation (322)
+[2021.02.25-01.07.37:396][139]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (320)
+[2021.02.25-01.07.37:396][139]LogModuleManager: Shutting down and abandoning module DataValidation (318)
+[2021.02.25-01.07.37:396][139]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (316)
+[2021.02.25-01.07.37:396][139]LogModuleManager: Shutting down and abandoning module LevelEditor (315)
+[2021.02.25-01.07.37:396][139]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (314)
+[2021.02.25-01.07.37:396][139]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (312)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module MainFrame (310)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module HotReload (309)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module ToolMenus (305)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module ContentBrowser (303)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module ContentBrowserData (302)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module TreeMap (299)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2021.02.25-01.07.37:397][139]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module Overlay (276)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module VREditor (272)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module StringTableEditor (270)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (268)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (266)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module FunctionalTesting (264)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (262)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (261)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module UMG (258)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module UMGEditor (257)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module MessageLog (255)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module SlateReflector (250)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module Slate (248)
+[2021.02.25-01.07.37:400][139]LogModuleManager: Shutting down and abandoning module SlateCore (246)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (244)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module UnrealEd (242)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module MRMesh (240)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (238)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (236)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module XAudio2 (234)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module Networking (232)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module Core (230)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.02.25-01.07.37:401][139]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.02.25-01.07.37:403][139]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.02.25-01.07.37:404][139]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.02.25-01.07.37:406][139]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.02.25-01.07.37:406][139]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.02.25-01.07.37:406][139]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.02.25-01.07.37:406][139]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.02.25-01.07.37:406][139]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.02.25-01.07.37:407][139]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.02.25-01.07.37:409][139]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.02.25-01.07.37:415][139]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.02.25-01.07.37:416][139]LogHMD: Freeing OpenVRDLLHandle.
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module VariantManagerContent (96)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module DatasmithContent (94)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.02.25-01.07.37:416][139]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (90)
+[2021.02.25-01.07.37:417][139]LogModuleManager: Shutting down and abandoning module ChunkDownloader (88)
+[2021.02.25-01.07.37:417][139]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2021.02.25-01.07.37:417][139]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2021.02.25-01.07.37:418][139]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2021.02.25-01.07.37:418][139]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2021.02.25-01.07.37:433][139]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2021.02.25-01.07.37:434][139]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.02.25-01.07.37:434][139]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDAA045FF-42C7-63AC-0B65-968F087E2058%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=3d95742d4125c54e9277adb0ae4d38e0%7C9217cfd611db4192b8a40e15d7a0fca1%7C08cd8740-7457-41cf-b7f2-d2713d82dd2d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.02.25-01.07.37:434][139]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.02.25-01.07.37:444][139]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2021.02.25-01.07.37:445][139]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2021.02.25-01.07.37:446][139]LogModuleManager: Shutting down and abandoning module Media (67)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module MLSDK (60)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module ChaosCloth (52)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.02.25-01.07.37:447][139]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.02.25-01.07.37:448][139]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.02.25-01.07.37:448][139]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.02.25-01.07.37:448][139]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.02.25-01.07.37:448][139]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.02.25-01.07.37:451][139]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.02.25-01.07.37:452][139]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.02.25-01.07.37:459][139]LogD3D11RHI: Shutdown
+[2021.02.25-01.07.37:459][139]LogD3D11RHI: CleanupD3DDevice
+[2021.02.25-01.07.37:483][139]LogExit: Exiting.
+[2021.02.25-01.07.37:495][139]Log file closed, 02/25/21 01:07:37
